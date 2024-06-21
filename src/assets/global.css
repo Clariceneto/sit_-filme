@@ -1,0 +1,26 @@
+/* src/assets/global.css */
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #141414;
+    color: white;
+    font-family: Arial, sans-serif;
+  }
+  
+  header, footer {
+    background-color: #141414;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  header nav a, footer a {
+    color: white;
+    margin: 0 1rem;
+    text-decoration: none;
+  }
+  
+  header nav a:hover, footer a:hover {
+    text-decoration: underline;
+  }
+  
